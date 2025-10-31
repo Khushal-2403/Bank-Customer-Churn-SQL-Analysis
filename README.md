@@ -8,7 +8,7 @@ This project explores customer churn data from a retail bank using **MySQL** to 
 ## 📊 Dataset Information
 - **Source:** [Kaggle – Bank Customer Churn Dataset](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn)
 - **Rows:** 10,000  
-- **Columns:** 14 (CustomerID, Geography, Gender, Age, Balance, Products, CreditCard, etc.)
+- **Columns:** 21 (CustomerID, Geography, Gender, Age, Balance, Products, CreditCard, etc.)
 - **Objective:** Identify key factors influencing why customers leave the bank.
 
 ---
